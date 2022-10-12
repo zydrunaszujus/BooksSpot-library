@@ -1,0 +1,26 @@
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\bin\Debug\net6.0\appsettings.json
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\bin\Debug\net6.0\BooksSpot library.staticwebassets.runtime.json
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\bin\Debug\net6.0\BooksSpot library.exe
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\bin\Debug\net6.0\BooksSpot library.deps.json
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\bin\Debug\net6.0\BooksSpot library.runtimeconfig.json
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\bin\Debug\net6.0\BooksSpot library.dll
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\bin\Debug\net6.0\BooksSpot library.pdb
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\BooksSpot library.csproj.AssemblyReference.cache
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\BooksSpot library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\BooksSpot library.AssemblyInfoInputs.cache
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\BooksSpot library.AssemblyInfo.cs
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\BooksSpot library.csproj.CoreCompileInputs.cache
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\BooksSpot library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\BooksSpot library.RazorAssemblyInfo.cache
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\BooksSpot library.RazorAssemblyInfo.cs
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\scopedcss\bundle\BooksSpot library.styles.css
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\scopedcss\projectbundle\BooksSpot library.bundle.scp.css
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\BooksSpot library.dll
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\refint\BooksSpot library.dll
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\BooksSpot library.pdb
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\BooksSpot library.genruntimeconfig.cache
+C:\Users\zydru\source\repos\BooksSpot library\BooksSpot library\obj\Debug\net6.0\ref\BooksSpot library.dll
